@@ -1,3 +1,5 @@
-### Hola, soy Aida 👋
+### ¡Hola a tod@s! 👋
+
+Mi nombre es Aida. 
 
 
