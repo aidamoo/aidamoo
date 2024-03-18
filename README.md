@@ -1,5 +1,7 @@
 ### ¡Hola a tod@s! 👋
 
+RRHH | Selección de Personal | IT Recruiter | 🚀 Data Science 📚 | Python 👩‍💻​ | MySQL | Pycharm | Streamlit
+
 Mi nombre es Aida. Llevo seis meses inmersa en un Bootcamp de Ciencia de Datos e IA en los cuales he participado en el desarrollo de diferentes proyectos utilizando siempre el lenguaje de Python.
 
 🔧🔧 **Proyectos Destacados:** 🔧🔧
