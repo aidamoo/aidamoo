@@ -1,14 +1,9 @@
 <h1 align="center">¡Hola a tod@s!👋, soy Aida</h1>
 <h3 align="center">RRHH | Selección de Personal | IT Recruiter | 🚀 Data Science 📚 | Python 👩‍💻​ | MySQL | Pycharm | Streamlit</h3>
 
-Sobre mi:
-Mi nombre es Aida. Soy Graduada en Administración y Dirección de Empresas y he finalizado un Bootcamp en Data Science & IA.
-📚 Estudios Finalizado: GRADO ADE, Máster RRHH, Bootcamp Data Science.
-👩‍💻 Experiencia: Departamento RRHH dos grandes Multinacionales.
-🌍 Resido en Santiago de Compostela.
-Estoy buscando una oportunidad en la que poder fusionar mis dos pasiones: Personas y datos.
-📩 Contacto: aidaamoedo@hotmail.com
+- 📚 Estudios: GRADO ADE, Máster RRHH, Bootcamp Data Science. **: GRADO ADE, Máster RRHH, Bootcamp Data Science.**
 
+- 📩 Contacto [aidaamoedo@hotmail.com](aidaamoedo@hotmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
