@@ -10,7 +10,7 @@ Mi nombre es Aida. Soy Graduada en Administración y Dirección de Empresas y he
 - 👩‍💻 Experiencia: Departamento RRHH dos grandes Multinacionales.
   
 - 🌍 Resido en Santiago de Compostela.
-- 
+ 
 - Estoy buscando una oportunidad en la que poder fusionar mis dos pasiones: Personas y datos.
 
 - 📩 Contacto [aidaamoedo@hotmail.com](aidaamoedo@hotmail.com)
