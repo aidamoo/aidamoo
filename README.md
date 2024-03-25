@@ -38,6 +38,7 @@ Mi nombre es Aida. Soy Graduada en Administración y Dirección de Empresas y he
 ## 🔗 Social
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aida-amoedo)
+
 [![Mi CV Web](https://mi-cv-aida-amoedo.streamlit.app/badge.svg)](https://mi-cv-aida-amoedo.streamlit.app/)
 
 
